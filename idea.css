@@ -1,0 +1,142 @@
+.navbar {
+    border-radius: 0px 0px 100px 100px;
+    background-color: #636262;
+    overflow: hidden;
+}
+
+
+body{
+    margin: 0px;
+    background-color: rgb(216, 152, 13);
+}
+.titulo{
+    margin-top: 40px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    text-align: center;
+    font-size: 30px;
+    margin-right: 4cm;
+
+}
+.div2{
+    text-align:left;
+}
+.subtit{
+
+    color: white;
+    font-size: 23px;
+    text-align: center;
+    margin-right: 4cm;
+}
+.img{
+    margin-left: 5px;
+    margin-top: 40px;
+    float: inline-start;
+}
+
+.imagen:hover{
+    transition: transform 0.5s;
+    transform: scale(1.2);
+}
+.redes{ 
+    border-radius: 20%;
+    margin-right: 15px;
+    margin-top: 10px;
+    float: right;
+    width: 30px;
+    height: auto;
+}
+.redes:hover{
+    transition: transform 0.9s;
+    transform: scale(1.5);
+}
+.subtit2{
+    color: #ffffff;
+    text-align: center;
+    margin-right: 0cm;
+}
+.contenido{
+    text-align: center;
+    margin-top: 50px;
+}
+.todo{
+    color: black;
+    font-size: 30px;
+}
+.i{
+    width: 15%;
+    margin-bottom: 30px;
+    margin-top: 70px;
+    align-items: center;
+    text-align: left;
+}
+.t{
+    font-size: 50px;
+    background-color: #636262;
+    padding: 10px;
+    display: inline;
+    border-radius: 50px;
+    color: #ffffff;
+}
+.p{
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 40px;
+    text-align: justify;
+    margin-bottom: 80px;
+}
+.no{
+    width: 30px;
+    border-radius: 1000%;
+}
+.of{
+    text-align: left;
+    color: #ffffff;
+    margin-left: 40px;
+}
+
+
+::-webkit-scrollbar {
+    width: 20px; /* Ancho de la barra de desplazamiento */
+    height: 10px; /* Alto de la barra de desplazamiento */
+}
+  
+::-webkit-scrollbar-thumb {
+    background-color: rgb(255, 255, 255); /* Color de la barra de desplazamiento */
+    border-radius: 10px; /* Radio de esquina de la barra de desplazamiento */
+}
+  
+::-webkit-scrollbar-track {
+    background-color:#636262; /* Color del fondo de la barra de desplazamiento */
+}  
+
+.pie{
+    background-color: #ffffff;
+    padding-bottom: 1px;
+    border-radius: 50px 50px 0px 0px;
+}
+.privacidad{
+    display: none;
+}
+.privacidad:hover{
+    display: block;
+}
+.fin{
+    margin-left: 40px;
+}
+a{
+    color: black;
+}
+.td{
+    text-align: justify;
+    margin: 50px;
+}
+.aviso{
+    text-align: center;
+    font-size: 70px;
+}
+li{
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+}
